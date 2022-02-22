@@ -8,6 +8,7 @@ CREATE TABLE Users (
     Country varchar(255) 
 );
 
+Zmiana
 /* Dodanie rekordów do tabeli Users 
 Składnia
 
